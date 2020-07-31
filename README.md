@@ -51,5 +51,3 @@ Salir de la consola
 $ exit
 
 ```
-## comando para subir un repo a github
-`$ git remote add github master`
